@@ -1,5 +1,9 @@
-# Placeholder Images
+# HTML Placeholders
 
-These are 2x2 pixel PNG images used as placeholders
-in HTML5 development.
+Various placeholders and scaffolding for HTML development.
+
+Included:
+
+- 2x2 pixel PNG images of various colors
+
 
